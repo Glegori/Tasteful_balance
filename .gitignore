@@ -1,0 +1,4 @@
+# ignore All .log files
+*.log
+temp/
+*.ppk
